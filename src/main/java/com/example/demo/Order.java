@@ -13,8 +13,6 @@ public class Order {
 
     private String id;
     private String clientName;
-    private String clientSurname;
-    private String address;
     private String postalCode;
     private String city;
     private String phoneNumber;
